@@ -14,7 +14,7 @@ const Navbar = () => {
   const handleClick = () => setNav(!nav)
 
   return (
-    <div className='fixed w-full h-[90px] flex justify-between items-center px-4 bg-[#19191b] text-white'>
+    <div className='fixed w-full h-[90px] flex justify-between items-center px-4 bg-[#000000] text-white'>
       
       {/*Logo*/}
       <div className='font-extrabold text-2xl cursor-pointer'>
@@ -52,7 +52,7 @@ const Navbar = () => {
                         'block px-4 py-2 text-sm'
                       )}
                     >
-                      Menu
+                      Men
                     </a>
                   )}
                 </Menu.Item>

@@ -7,7 +7,6 @@ import clothe5 from '../assets/model-5.jpg'
 import clothe6 from '../assets/model-6.jpg'
 import clothe7 from '../assets/model-7.jpg'
 import clothe8 from '../assets/model-8.jpg'
-import clothe9 from '../assets/product-model-1.jpg'
 
 const Shop = () => {
   return (

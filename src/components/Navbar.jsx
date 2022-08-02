@@ -180,6 +180,8 @@ const Navbar = () => {
           Login
         </li>
       </ul>
+
+      {/*Shopping cart*/}
     </div>
   )
 }
